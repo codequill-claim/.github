@@ -15,7 +15,7 @@
   </a>
 </p>
 
-# About CodeQuill
+# About
 
 Memory infrastructure for software — source-centric evidence anchored on Ethereum.
 
